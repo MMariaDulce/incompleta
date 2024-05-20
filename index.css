@@ -17,7 +17,7 @@ body{
     color: aliceblue;
 }
 
-.menu a {
+.NavBar {
     text-decoration: none;
     color: inherit;
 }
